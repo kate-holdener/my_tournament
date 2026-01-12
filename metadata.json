@@ -1,0 +1,6 @@
+
+{
+  "name": "Checkmate Tournament Hub",
+  "description": "A comprehensive chess tournament management and display tool. Upload round-specific PGN files to generate real-time standings, search players, and visualize game outcomes with a professional dashboard.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,15 @@
+
+{
+  "name": "Global Grandmaster Invitational",
+  "primaryColor": "#000000",
+  "secondaryColor": "#3B82F6",
+  "sponsorName": "Strategic Chess Analytics",
+  "startDate": "October 15, 2023",
+  "endDate": "October 22, 2023",
+  "location": "Metropolitan Convention Center, New York, NY",
+  "type": "Single Round Robin (Classical)",
+  "prizes": ["1st: $100,000", "2nd: $50,000", "3rd: $25,000"],
+  "rounds": ["round1.pgn", "round2.pgn", "round3.pgn"],
+  "tournamentRepo": "cse-4504-wustl-sp26/chess-tournament-viewer",
+  "logoUrl": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&q=80&w=100&h=100"
+}
